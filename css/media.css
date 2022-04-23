@@ -1,0 +1,1933 @@
+
+
+
+
+
+@media screen and (max-width: 1366px) {
+	
+
+	
+	
+}
+
+@media screen and (max-width: 1350px) {
+	
+}
+
+@media screen and (max-width: 1320px) {
+	
+}
+
+@media screen and (max-width: 1290px) {
+	
+}
+
+@media screen and (max-width: 1230px) {
+	.research-department-link a {
+		width: 486px;
+	}
+
+	.manufacturing-title-border {
+		font-size: 36px;
+		line-height: 51px;
+		padding: 16px 0;
+		width: 327px;
+		text-align: center;
+	}
+
+	.manufacturing-block-wrap2 {
+		padding: 446px 0 0 0;
+	}
+
+	.manufacturing-block-wrap5 {
+		padding: 500px 0 0 0;
+	}
+
+	.manufacturing-block-wrap4 {
+		padding: 500px 0 0 0;
+	}
+
+	.manufacturing-block-wrap6 {
+		padding: 535px 0 0 0;
+	}
+
+	.subscribe-button {
+		right: 81px;
+	}
+
+	.research-department-suptitle {
+		font-size: 20px;
+		line-height: 29px;
+		width: 495px;
+	}
+
+	.research-department {
+		height: 1049px;
+	}
+
+	.research-department-wrap {
+		padding: 155px 0 0 0;
+	}
+}
+
+
+/* стили для md-устройств */
+@media screen and (max-width: 1200px) {
+	
+
+
+}
+
+@media screen and (max-width: 1190px) {
+	
+}
+
+@media screen and (max-width: 1170px) {
+	.manufacturing-block-wrap5 {
+		padding: 453px 0 0 0;
+	}
+
+	.manufacturing-block-wrap4 {
+		padding: 447px 0 0 0;
+	}
+}
+
+@media screen and (max-width: 1110px) {
+	.manufacturing-block2 {
+		width: 25%;
+	}
+
+	.manufacturing-block {
+		width: 37.5%;
+	}
+
+	.wall-honor-section-title {
+		font-size: 20px;
+		line-height: 29px;
+	}
+
+	.wall-honor-section-suptitle {
+		font-size: 18px;
+		line-height: 26px;
+	}
+
+	.wall-honor-section-name {
+		font-size: 30px;
+		line-height: 43px;
+	}
+
+	.wall-honor-section-li {
+		font-size: 18px;
+		line-height: 26px;
+	}
+
+	.subscribe-input {
+		width: 100%;
+	}
+
+	.subscribe-button {
+		right: 0;
+	}
+
+	.secret-department-title-border {
+		font-size: 44px;
+		line-height: 63px;
+		width: 469px;
+		padding: 18px 0;
+	}
+
+	.secret-department-link a {
+		font-size: 33px;
+		line-height: 47px;
+		width: 551px;
+	}
+
+	.research-department-title-border {
+		font-size: 44px;
+		line-height: 63px;
+		width: 511px;
+		padding: 18px 0;
+	}
+
+	.work-title {
+		font-size: 32px;
+	}
+
+	.header-li {
+		padding: 0 25px;
+	}
+
+
+
+
+  
+}
+
+@media screen and (max-width: 1050px) {
+	
+	.manufacturing-block-wrap:before {
+		width: 469px;
+		left: 23px;
+		bottom: -17px;
+		background: url(../images/manufacturing-restagle-1024.svg) 100% 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap2:before {
+		width: 469px;
+		right: 23px;
+		bottom: -17px;
+		background: url(../images/manufacturing-restagle2-1024.svg) 100% 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap3:before {
+		width: 469px;
+		left: 23px;
+		bottom: -25px;
+		background: url(../images/manufacturing-restagle3-1024.svg) 100% 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap4:before {
+		width: 469px;
+		left: 23px;
+		bottom: -25px;
+		background: url(../images/manufacturing-restagle4-1024.svg) 100% 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap5:before {
+		width: 469px;
+		right: 23px;
+		bottom: -17px;
+		background: url(../images/manufacturing-restagle5-1024.svg) 100% 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap6:before {
+		width: 469px;
+		right: 55px;
+		bottom: -17px;
+		background: url(../images/manufacturing-restagle6-1024.svg) 100% 100% no-repeat;
+	}
+
+	.manufacturing-block-text {
+		padding: 0 0 0 2px;
+	}
+
+	.manufacturing-block-text2 {
+		padding: 0 0 0 2px;
+	}
+
+	.manufacturing-block-wrap {
+		padding: 195px 0 0 0;
+	}
+
+	.manufacturing-block-wrap2 {
+	    padding: 435px 0 0 0;
+	}
+
+	.manufacturing-block-supsuptitle2 br {
+		display: none;
+	}
+
+	.manufacturing-block-wrap5 {
+	    padding: 475px 0 0 0;
+	}
+
+	.manufacturing-block-wrap6 {
+	    padding: 520px 0 0 0;
+	}
+
+  
+}
+
+
+@media screen and (max-width: 1024px) {
+	.research-department {
+		background: url(../images/research-department-bg-1024.png) center 0;
+		height: 916px;
+	}
+
+	.research-department-wrap {
+		padding: 30px 0 0 0;
+	}
+
+	.work {
+		background: url(../images/work-bg-1024.png) center 0 no-repeat;
+		height: 768px;
+	}
+
+	.work-img img {
+		width: 535px;
+		height: 681px;
+	}
+
+	.work-img {
+		top: 50px;
+		left: 29%;
+	}
+
+	.manufacturing {
+		position: relative;
+	}
+
+	.manufacturing-title {
+	    padding: 49px 0 0 20px;
+	}
+
+	.laboratory {
+	    background: url(../images/laboratory-1024.png) center 0 no-repeat;
+
+	    height: 373px;
+	}
+
+	.work-mb {
+		height: auto;
+	}
+	  
+}
+
+
+
+/* стили для sm-устройств */
+@media screen and (max-width: 992px) {
+	.manufacturing-img-absolute {
+	    position: absolute;
+	    left: 17%;
+	    top: 263px;
+	}
+
+	.manufacturing-img-absolute2 {
+	    position: absolute;
+	    left: 17%;
+	    top: 609px;
+	}
+
+	.manufacturing-img-absolute3 {
+	    position: absolute;
+	    left: 20%;
+	    top: 937px;
+	}
+
+	.manufacturing-img-absolute4 {
+	    position: absolute;
+	    left: 17%;
+	    bottom: 717px;
+	}
+
+	.manufacturing-img-absolute5 {
+	    position: absolute;
+	    left: 15%;
+	    bottom: 402px;
+	}
+
+	.manufacturing-img-absolute6 {
+	    position: absolute;
+	    left: 15%;
+	    bottom: 80px;
+	}
+
+	.manufacturing-block-wrap {
+	    padding: 175px 0 0 0;
+	}
+
+	.manufacturing-block-wrap2 {
+	    padding: 400px 0 0 0;
+	}
+
+	.manufacturing-block-wrap3 {
+	    padding: 545px 0 0 0;
+	    position: relative;
+	    display: flex;
+	}
+
+	.manufacturing-block-wrap6 {
+	    padding: 485px 0 0 0;
+	}
+  
+}
+
+@media screen and (max-width: 950px) {
+	.manufacturing-title2 {
+		display: flex;
+		justify-content: center;
+		padding: 40px 0 0 0;
+	}
+
+	.manufacturing-block-mb {
+		display: none;
+	}
+
+	.manufacturing-block {
+		width: 70%;
+	}
+
+	.manufacturing-block2 {
+		width: 30%;
+	}
+
+	.manufacturing-block-wrap7 {
+		display: flex;
+		padding: 217px 0 0 180px;
+	}
+
+	.manufacturing-block-wrap8 {
+		display: flex;
+		padding: 191px 0 0 180px;
+	}
+
+	.manufacturing-block-wrap9 {
+		display: flex;
+		padding: 217px 0 0 180px;
+	}
+
+	.manufacturing-block-title2 {
+		text-align: left;
+	}
+
+	.manufacturing-block-suptitle2 {
+		text-align: left;
+	}
+
+	.manufacturing-block-supsuptitle2 {
+		text-align: left;
+	}
+
+	.manufacturing-block-title5 {
+		text-align: left;
+	}
+
+	.manufacturing-block-suptitle5 {
+		text-align: left;
+	}
+
+	.manufacturing-block-supsuptitle5 {
+		text-align: left;
+	}
+
+	.manufacturing-block-title6 {
+		text-align: left;
+	}
+
+	.manufacturing-block-suptitle6 {
+		text-align: left;
+	}
+
+	.manufacturing-block-supsuptitle6 {
+		text-align: left;
+	}
+
+	.manufacturing-img2 {
+		display: block;
+		text-align: center;
+	}
+
+	.manufacturing-img {
+		display: none;
+	}
+
+	.manufacturing-block-wrap3 {
+	    padding: 237px 0 0 180px;
+	}
+
+	.manufacturing-img-absolute {
+	    position: absolute;
+	    left: 21%;
+	    top: 393px;
+	}
+
+	.manufacturing-img-absolute2 {
+	    position: absolute;
+	    left: 20%;
+	    top: 743px;
+	}
+
+	.manufacturing-img-absolute3 {
+	    position: absolute;
+	    left: 24%;
+	    top: 1102px;
+	}
+
+	.manufacturing-img-absolute4 {
+	    position: absolute;
+	    left: 20%;
+	    bottom: 770px;
+	}
+
+	.manufacturing-img-absolute5 {
+	    position: absolute;
+	    left: 19%;
+	    bottom: 440px;
+	}
+
+	.manufacturing-img-absolute6 {
+	    position: absolute;
+	    left: 19%;
+	    bottom: 92px;
+	}
+
+	.manufacturing-block-wrap:before {
+		width: 580px;
+		left: 203px;
+		bottom: -17px;
+		background: url(../images/manufacturing-restagle-768.svg) 100% 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap3:before {
+		width: 580px;
+		left: 203px;
+		bottom: -17px;
+		background: url(../images/manufacturing-restagle3-768.svg) 100% 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap4:before {
+		width: 580px;
+		left: 203px;
+		bottom: -17px;
+		background: url(../images/manufacturing-restagle5-768.svg) 100% 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap4 {
+		padding: 221px 0 0 180px;
+	}
+
+	.manufacturing-block-wrap {
+	    padding: 195px 0 0 180px;
+	}
+
+	.manufacturing-block-wrap7:before {
+		height: 64px;
+		left: 200px;
+		bottom: -17px
+	}
+
+	.manufacturing-block-wrap8:before {
+		left: 203px;
+		bottom: -17px;
+	}
+
+	.manufacturing-block-wrap9:before {
+		left: 203px;
+		bottom: -17px;
+	}
+
+	.manufacturing {
+		background-size: cover;
+	}
+
+	.work-block-text-border {
+		width: 232px;
+	}
+
+	.work-block-text-border2 {
+		width: 232px;
+	}
+
+	.work-block-text-border3 {
+		width: 232px;
+	}
+
+	.work-block-text-border4 {
+		width: 232px;
+	}
+
+	.work-block-text-border5 {
+		width: 232px;
+	}
+
+	.work-block-text-border6 {
+		width: 232px;
+	}
+
+	.work-block-blur {
+	    width: auto;
+	    padding: 20px 0px 20px 0px;
+	}
+
+	.work-block {
+		padding: 0;
+	}
+
+}
+
+@media screen and (max-width: 910px) {
+	
+	.manufacturing-block-wrap7 {
+		display: flex;
+		padding: 217px 0 0 150px;
+	}
+
+	.manufacturing-block-wrap8 {
+		display: flex;
+		padding: 191px 0 0 150px;
+	}
+
+	.manufacturing-block-wrap9 {
+		display: flex;
+		padding: 217px 0 0 150px;
+	}
+
+	.manufacturing-block-wrap4 {
+		padding: 195px 0 0 150px;
+	}
+
+	.manufacturing-block-wrap {
+	    padding: 195px 0 0 150px;
+	}
+
+	.manufacturing-block-wrap3 {
+	    padding: 237px 0 0 150px;
+	}
+
+	.manufacturing-block-wrap7:before {
+		height: 64px;
+		left: 170px;
+		bottom: -17px
+	}
+
+	.manufacturing-block-wrap8:before {
+		left: 170px;
+		bottom: -17px;
+	}
+
+	.manufacturing-block-wrap9:before {
+		left: 170px;
+		bottom: -17px;
+	}
+
+	.manufacturing-block-wrap:before {
+		width: 580px;
+		left: 170px;
+		bottom: -17px;
+		background: url(../images/manufacturing-restagle-768.svg) 100% 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap3:before {
+		width: 580px;
+		left: 170px;
+		bottom: -17px;
+		background: url(../images/manufacturing-restagle3-768.svg) 100% 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap4:before {
+		width: 580px;
+		left: 170px;
+		bottom: -17px;
+		background: url(../images/manufacturing-restagle5-768.svg) 100% 100% no-repeat;
+	}
+	
+	.header-li {
+		padding: 0 7px;
+	}
+	
+}
+
+@media screen and (max-width: 850px) {
+	.manufacturing-block-wrap7 {
+		display: flex;
+		padding: 217px 0 0 80px;
+	}
+
+	.manufacturing-block-wrap8 {
+		display: flex;
+		padding: 191px 0 0 80px;
+	}
+
+	.manufacturing-block-wrap9 {
+		display: flex;
+		padding: 217px 0 0 80px;
+	}
+
+	.manufacturing-block-wrap4 {
+		padding: 195px 0 0 80px;
+	}
+
+	.manufacturing-block-wrap {
+	    padding: 195px 0 0 80px;
+	}
+
+	.manufacturing-block-wrap3 {
+	    padding: 237px 0 0 80px;
+	}
+
+	.manufacturing-block-wrap7:before {
+		height: 64px;
+		left: 100px;
+		bottom: -17px
+	}
+
+	.manufacturing-block-wrap8:before {
+		left: 100px;
+		bottom: -17px;
+	}
+
+	.manufacturing-block-wrap9:before {
+		left: 100px;
+		bottom: -17px;
+	}
+
+	.manufacturing-block-wrap:before {
+		width: 580px;
+		left: 100px;
+		bottom: -17px;
+		background: url(../images/manufacturing-restagle-768.svg) 100% 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap3:before {
+		width: 580px;
+		left: 100px;
+		bottom: -17px;
+		background: url(../images/manufacturing-restagle3-768.svg) 100% 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap4:before {
+		width: 580px;
+		left: 100px;
+		bottom: -17px;
+		background: url(../images/manufacturing-restagle5-768.svg) 100% 100% no-repeat;
+	}
+
+	.manufacturing-block2 {
+	    width: 35%;
+	}
+
+	.manufacturing-block {
+		width: 65%;
+	}
+}
+
+@media screen and (max-width: 800px) {
+	
+
+	.social-li {
+		padding: 0 0 0 22px;
+	}
+
+	.manufacturing-block-wrap7 {
+		display: flex;
+		padding: 217px 0 0 30px;
+	}
+
+	.manufacturing-block-wrap8 {
+		display: flex;
+		padding: 191px 0 0 30px;
+	}
+
+	.manufacturing-block-wrap9 {
+		display: flex;
+		padding: 217px 0 0 30px;
+	}
+
+	.manufacturing-block-wrap4 {
+		padding: 220px 0 0 30px;
+	}
+
+	.manufacturing-block-wrap {
+	    padding: 195px 0 0 30px;
+	}
+
+	.manufacturing-block-wrap3 {
+	    padding: 237px 0 0 30px;
+	}
+
+	.manufacturing-block-wrap7:before {
+		height: 64px;
+		left: 50px;
+		bottom: -17px
+	}
+
+	.manufacturing-block-wrap8:before {
+		left: 50px;
+		bottom: -17px;
+	}
+
+	.manufacturing-block-wrap9:before {
+		left: 50px;
+		bottom: -17px;
+	}
+
+	.manufacturing-block-wrap:before {
+		width: 580px;
+		left: 50px;
+		bottom: -17px;
+		background: url(../images/manufacturing-restagle-768.svg) 100% 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap3:before {
+		width: 580px;
+		left: 50px;
+		bottom: -17px;
+		background: url(../images/manufacturing-restagle3-768.svg) 100% 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap4:before {
+		width: 580px;
+		left: 50px;
+		bottom: -17px;
+		background: url(../images/manufacturing-restagle5-768.svg) 100% 100% no-repeat;
+	}
+
+	
+
+}
+
+
+
+/* Ipad*/ 
+@media screen and (max-width: 768px) {
+	
+
+	.work-img img {
+	    width: 591px;
+	    height: 725px;
+	}
+
+	.work {
+		background: url(../images/work-bg-768.png) 0 0 no-repeat;
+		height: 1024px;
+	}
+
+	.work-img {
+	    top: 129px;
+	    left: 16%;
+	}
+
+	.work-title-border {
+		padding: 0;
+	}
+	
+	.manufacturing-block-wrap7 {
+		display: flex;
+		padding: 217px 0 0 0;
+	}
+
+	.manufacturing-block-wrap8 {
+		display: flex;
+		padding: 191px 0 0 0;
+	}
+
+	.manufacturing-block-wrap9 {
+		display: flex;
+		padding: 217px 0 0 0;
+	}
+
+	.manufacturing-block-wrap4 {
+		padding: 220px 0 0 0;
+	}
+
+	.manufacturing-block-wrap {
+	    padding: 195px 0 0 0;
+	}
+
+	.manufacturing-block-wrap3 {
+	    padding: 237px 0 0 0;
+	}
+
+	.manufacturing-block-wrap7:before {
+		height: 64px;
+		left: 20px;
+		bottom: -17px
+	}
+
+	.manufacturing-block-wrap8:before {
+		left: 20px;
+		bottom: -17px;
+	}
+
+	.manufacturing-block-wrap9:before {
+		left: 20px;
+		bottom: -17px;
+	}
+
+	.manufacturing-block-wrap:before {
+		width: 580px;
+		left: 20px;
+		bottom: -17px;
+		background: url(../images/manufacturing-restagle-768.svg) 100% 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap3:before {
+		width: 580px;
+		left: 20px;
+		bottom: -17px;
+		background: url(../images/manufacturing-restagle3-768.svg) 100% 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap4:before {
+		width: 580px;
+		left: 20px;
+		bottom: -17px;
+		background: url(../images/manufacturing-restagle5-768.svg) 100% 100% no-repeat;
+	}
+
+	.laboratory {
+	    background: url(../images/laboratory-1024.png) 100% 0 no-repeat;
+	    height: 373px;
+	}
+
+	.research-department-suptitle {
+		width: 367px;
+	}
+
+	.research-department-link a {
+		width: 371px;
+		font-size: 30px;
+		line-height: 43px;
+	}
+
+	.wall-honor-title-border {
+		font-size: 44px;
+		line-height: 69px;
+		width: 349px;
+		padding: 18px;
+	}
+
+	.wall-honor-section-img img {
+		width: 199px;
+	}
+}
+
+
+@media screen and (max-width: 750px) {
+  	.work-block-border {
+  		width: 165px;
+  	}
+
+  	.work-block-text-border {
+  		width: 165px;
+  		
+  	}
+
+  	.work-block-title {
+  		font-size: 13px;
+  		line-height: 19px;
+  	}
+
+  	.work-block-text-border2 {
+  		width: 165px;
+  		
+  	}
+
+  	.work-block-title2 {
+  		font-size: 13px;
+  		line-height: 19px;
+  	}
+
+  	.work-block-text-border3 {
+  		width: 165px;
+  		
+  	}
+
+  	.work-block-title3 {
+  		font-size: 13px;
+  		line-height: 19px;
+  	}
+
+  	.work-block-text-border4 {
+  		width: 165px;
+  		
+  	}
+
+  	.work-block-title4 {
+  		font-size: 13px;
+  		line-height: 19px;
+  	}
+
+  	.work-block-text-border5 {
+  		width: 165px;
+  		
+  	}
+
+  	.work-block-title5 {
+  		font-size: 13px;
+  		line-height: 19px;
+  	}
+
+  	.work-block-text-border6 {
+  		width: 165px;
+  		
+  	}
+
+  	.work-block-title6 {
+  		font-size: 13px;
+  		line-height: 19px;
+  	}
+
+  	.manufacturing-block-wrap8 {
+  		padding: 174px 0 0 0;
+  	}
+
+  	.manufacturing-block {
+  		width: 60%;
+  	}
+
+  	.manufacturing-block2 {
+  		width: 40%;
+  	}
+
+  	.manufacturing-block-wrap {
+	    padding: 166px 0 0 0;
+	}
+
+	.manufacturing-block-wrap7 {
+	    display: flex;
+	    padding: 195px 0 0 0;
+	}
+
+	.manufacturing-block-wrap8 {
+	    padding: 185px 0 0 0;
+	}
+
+	.manufacturing-block-wrap4 {
+	    padding: 170px 0 0 0;
+	}
+
+	.manufacturing-block-wrap9 {
+	    display: flex;
+	    padding: 195px 0 0 0;
+	}
+
+	.header-li a {
+		font-size: 14px;
+		line-height: 20px;
+	}
+}
+
+
+/* Ipad mini*/ 
+@media screen and (max-width: 640px) {
+	
+	.work-title {
+		font-size: 20px;
+	}
+
+	.manufacturing-title-border {
+		font-size: 20px;
+		line-height: 29px;
+		width: 189px;
+		padding: 12px 0;
+	}
+
+	.manufacturing-block-number {
+		font-size: 64px;
+		line-height: 92px;
+	}
+
+	.manufacturing-block-title {
+		font-size: 20px;
+		line-height: 29px;
+	}
+
+	.manufacturing-block-suptitle {
+		font-size: 16px;
+		line-height: 23px;
+	}
+
+	.manufacturing-block-supsuptitle {
+		font-size: 14px;
+		line-height: 20px;
+	}
+
+	.manufacturing-block-number2 {
+		font-size: 64px;
+		line-height: 92px;
+	}
+
+	.manufacturing-block-title2 {
+		font-size: 20px;
+		line-height: 29px;
+	}
+
+	.manufacturing-block-suptitle2 {
+		font-size: 16px;
+		line-height: 23px;
+	}
+
+	.manufacturing-block-supsuptitle2 {
+		font-size: 14px;
+		line-height: 20px;
+	}
+
+	.manufacturing-block-number3 {
+		font-size: 64px;
+		line-height: 92px;
+	}
+
+	.manufacturing-block-title3 {
+		font-size: 20px;
+		line-height: 29px;
+	}
+
+	.manufacturing-block-suptitle3 {
+		font-size: 16px;
+		line-height: 23px;
+	}
+
+	.manufacturing-block-supsuptitle3 {
+		font-size: 14px;
+		line-height: 20px;
+	}
+
+	.manufacturing-block-number4 {
+		font-size: 64px;
+		line-height: 92px;
+	}
+
+	.manufacturing-block-title4 {
+		font-size: 20px;
+		line-height: 29px;
+	}
+
+	.manufacturing-block-suptitle4 {
+		font-size: 16px;
+		line-height: 23px;
+	}
+
+	.manufacturing-block-supsuptitle4 {
+		font-size: 14px;
+		line-height: 20px;
+	}
+
+	.manufacturing-block-number5 {
+		font-size: 64px;
+		line-height: 92px;
+	}
+
+	.manufacturing-block-title5 {
+		font-size: 20px;
+		line-height: 29px;
+	}
+
+	.manufacturing-block-suptitle5 {
+		font-size: 16px;
+		line-height: 23px;
+	}
+
+	.manufacturing-block-supsuptitle5 {
+		font-size: 14px;
+		line-height: 20px;
+	}
+
+	.manufacturing-block-number6 {
+		font-size: 64px;
+		line-height: 92px;
+	}
+
+	.manufacturing-block-title6 {
+		font-size: 20px;
+		line-height: 29px;
+	}
+
+	.manufacturing-block-suptitle6 {
+		font-size: 16px;
+		line-height: 23px;
+	}
+
+	.manufacturing-block-supsuptitle6 {
+		font-size: 14px;
+		line-height: 20px;
+	}
+
+	.manufacturing-block-text {
+		padding: 14px 0 0 2px;
+	}
+
+	/*.manufacturing-img3 {
+		display: block;
+	}
+
+	.manufacturing-img2 {
+		display: none;
+	}*/
+
+	.manufacturing-block-wrap4 {
+		padding: 141px 0 0 0;
+	}
+
+	.manufacturing-block-wrap9 {
+		padding: 126px 0 0 0;
+	}
+
+	.manufacturing-block-wrap {
+		padding: 35px 0 0 0;
+	}
+
+	.manufacturing-block-wrap7 {
+		padding: 117px 0 0 0;
+	}
+
+	.manufacturing-block-wrap3 {
+		padding: 175px 0 0 0;
+	}
+
+	.manufacturing-block-wrap8 {
+		padding: 131px 0 0 0;
+	}
+
+	.manufacturing-block {
+		width: 70%;
+	}
+
+	.manufacturing-block2 {
+		width: 30%;
+	}
+
+	.manufacturing-img-absolute {
+	    position: absolute;
+	    left: 7%;
+	    top: 148px;
+	}
+
+	.manufacturing-img-absolute2 {
+	    position: absolute;
+	    left: 6%;
+	    top: 380px;
+	}
+
+	.manufacturing-img-absolute3 {
+	    position: absolute;
+	    left: 11%;
+	    top: 661px;
+	}
+
+	.manufacturing-img-absolute4 {
+	    position: absolute;
+	    left: 5%;
+	    bottom: 648px;
+	}
+
+	.manufacturing-img-absolute5 {
+	    position: absolute;
+	    left: 3%;
+	    bottom: 414px;
+	}
+
+	.manufacturing-img-absolute6 {
+	    position: absolute;
+	    left: 2%;
+	    bottom: 180px;
+	}
+
+	.laboratory {
+	    background: url(../images/laboratory-1024.png) 90% 0 no-repeat;
+	    height: 373px;
+	}
+
+	.research-department {
+		padding: 37px 0 0 0;
+	}
+
+	.research-department-title-border {
+		font-size: 30px;
+		line-height: 43px;
+		width: 337px;
+		padding: 20px 0;
+	}
+
+	.research-department {
+	    background: url(../images/research-department-bg-1024.png) 24% 0 no-repeat;
+	    height: 916px;
+	}
+
+	.research-department-wrap {
+	    padding: 70px 0 0 0;
+	}
+
+	.footer-ul2 {
+		flex-wrap: wrap;
+	}
+	
+	.footer-li2 {
+		text-align: center;
+		width: 100%;
+	}
+
+	.footer-li3 {
+		padding: 10px 10px 0 10px;
+	}
+
+	.footer {
+		padding: 36px 0 40px 0;
+	}
+
+	/*Burger*/
+
+  .burger {
+    display: block !important;
+  }
+
+  .mt-munu-mb .header-navigation-wr {
+    display: block !important;
+  }
+
+  .header-wrap {
+  	position: relative;
+  	z-index: 12;
+  }
+
+  .social-ul {
+  	justify-content: right;
+  	padding: 0 15px 0 0;
+  }
+
+  .header-li-mb {
+  	display: none;
+  }
+
+  .header-social {
+  	display: none;
+  }
+
+  .header-wrap {
+  	justify-content: flex-start;
+  }
+
+  .header-li {
+  	padding: 0 8px;
+  }
+
+  .header-nav {
+  	padding: 0 0 0 13px;
+  }
+
+  .manufacturing-block-wrap:before {
+  	width: 500px;
+  	background: url(../images/manufacturing-restagle-768.svg) 0% 100% no-repeat;
+  	height: 70px;
+  }
+
+  .manufacturing-block-wrap7:before {
+  	background: url(../images/manufacturing-restagle2-768.svg) 0 100% no-repeat;
+  	width: 500px;
+  	height: 50px;
+  }
+
+  .manufacturing-block-wrap3:before {
+  	background: url(../images/manufacturing-restagle3-768.svg) 0 100% no-repeat;
+  	width: 500px;
+  	height: 30px;
+  }
+
+  .manufacturing-block-wrap8:before {
+  	background: url(../images/manufacturing-restagle4-768.svg) 0 100% no-repeat;
+  	width: 500px;
+  	height: 30px;
+  }
+
+   .manufacturing-block-wrap4:before {
+  	background: url(../images/manufacturing-restagle5-768.svg) 0 100% no-repeat;
+  	width: 500px;
+  	height: 30px;
+  }
+
+   .manufacturing-block-wrap9:before {
+  	background: url(../images/manufacturing-restagle6-768.svg) 0 100% no-repeat;
+  	width: 500px;
+  	height: 50px;
+  }
+
+ 
+
+ 
+
+}
+
+@media screen and (max-width: 600px) {
+  	 .manufacturing-img-absolute4 {
+	    position: absolute;
+	    left: 5%;
+	    bottom: 545px;
+	}
+
+	.manufacturing-img-absolute5 {
+	    position: absolute;
+	    left: 3%;
+	    bottom: 307px;
+	}
+
+	.manufacturing-img-absolute6 {
+	    position: absolute;
+	    left: 2%;
+	    bottom: 72px;
+	}
+
+	.footer-block {
+		width: 50%
+	}
+
+	.footer-block2 {
+		width: 50%;
+		text-align: right;
+	}
+
+	.footer-wrap {
+		flex-wrap: wrap;
+	}
+
+	.footer-block3 {
+		width: 100%;
+	}
+
+	.footer-ul-mb {
+		padding: 29px 0 0 0;
+		display: flex;
+		justify-content: space-between;
+	}
+
+	.footer-li {
+		padding: 0 0 15px 0;
+	}
+
+	.footer {
+		background-size: cover;
+	}
+
+	.manufacturing-img2 {
+		display: none;
+	}
+
+	.manufacturing-img3 {
+		display: block;
+	}
+}
+
+
+@media screen and (max-width: 550px) {
+ 	.manufacturing-img-absolute img {
+ 		width: 60px;
+ 	}
+
+ 	.manufacturing-img-absolute2 img {
+ 		width: 47px;
+ 	}
+
+ 	.manufacturing-img-absolute3 img {
+ 		width: 42px;
+ 	}
+
+ 	.manufacturing-img-absolute4 img {
+ 		width: 50px;
+ 	}
+
+ 	.manufacturing-img-absolute5 img {
+ 		width: 51px;
+ 	}
+
+ 	.manufacturing-img-absolute6 img {
+ 		width: 60px;
+ 	}
+
+ 	.manufacturing-block-wrap7:before {
+ 		width: 264px;
+		height: 110px;
+    	left: 125px;
+		bottom: -17px;
+		background: url(../images/manufacturing-restagle2-375.svg) 0 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap8:before {
+		height: 50px;
+		width: 264px;
+		left: 129px;
+		bottom: -17px;
+		background: url(../images/manufacturing-restagle4-375.svg) 0 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap9:before {
+		height: 70px;
+		width: 264px;
+		left: 156px;
+		bottom: -17px;
+		background: url(../images/manufacturing-restagle6-375.svg) 0 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap:before {
+		width: 264px;
+		height: 106px;
+		left: 129px;
+		bottom: -17px;
+		background: url(../images/manufacturing-restagle-375.svg) 0 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap3:before {
+		height: 50px;
+		width: 264px;
+		left: 129px;
+		bottom: -17px;
+		background: url(../images/manufacturing-restagle3-375.svg) 0 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap4:before {
+		height: 70px;
+		width: 264px;
+		left: 129px;
+		bottom: -17px;
+		background: url(../images/manufacturing-restagle5-375.svg) 0 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap {
+	    padding: 74px 0 0 100px;
+	}
+
+	.manufacturing-block-wrap7 {
+	    padding: 65px 0 0 100px;
+	}
+
+	.manufacturing-block-wrap3 {
+	    padding: 88px 0 0 100px;
+	}
+
+	.manufacturing-block-wrap8 {
+	    padding: 88px 0 0 100px;
+	}
+
+	.manufacturing-block-wrap4 {
+	    padding: 82px 0 0 100px;
+	}
+
+	.manufacturing-block-wrap9 {
+	    padding: 70px 0 0 100px;
+	}
+
+	.manufacturing-img-absolute {
+	    display: none;
+	}
+
+	.manufacturing-img-absolute2 {
+	    display: none;
+	}
+
+	.manufacturing-img-absolute3 {
+	    display: none;
+	}
+
+	.manufacturing-img-absolute4 {
+	    display: none;
+	}
+
+	.manufacturing-img-absolute5 {
+	    display: none;
+	}
+
+	.manufacturing-img-absolute6 {
+	    display: none;
+	}
+
+	.laboratory {
+	    background: url(../images/laboratory-1024.png) 78% 0 no-repeat;
+	    height: 373px;
+	}
+
+	.research-department {
+	    background: url(../images/research-department-bg-1024.png) 31% 0 no-repeat;
+	    height: 916px;
+	}
+
+	.research-department-suptitle {
+		font-size: 18px;
+		line-height: 26px;
+		width: 200px;
+	}
+
+	.secret-department-title-border {
+		font-size: 32px;
+		line-height: 46px;
+		width: 337px;
+		padding: 19px 0;
+	}
+
+	.secret-department {
+		padding: 60px 0;
+	}
+
+	.secret-department-link a {
+		font-size: 24px;
+		line-height: 34px;
+		width: auto;
+		padding: 8px 8px;
+	}
+
+	.wall-honor-title-border {
+		font-size: 32px;
+		line-height: 46px;
+		width: 251px;
+		padding: 19px 0;
+	}
+
+	.wall-honor-section-wrap {
+		flex-wrap: wrap;
+	}
+
+	.wall-honor-section-block {
+		padding: 25px 0;
+		width: 100%;
+	}
+
+	.wall-honor-section {
+	    padding: 30px 0 34px 0;
+	    background: url(../images/wall-honor-section-bg-375.png) center 0;
+	    background-size: cover;
+	}
+
+	.subscribe-title {
+		font-size: 24px;
+		line-height: 34px;
+		text-align: left;
+	}
+
+	.work-block {
+		width: 50%;
+	}
+
+
+
+	
+}
+
+@media screen and (max-width: 500px) {
+  	.work-wrap {
+  position: static;
+}
+
+.work-img {
+  position: static;
+  top: unset;
+  left: unset;
+}
+}
+
+/* Galaxy S8+*/ 
+@media screen and (max-width: 480px) {
+  	.work-img img {
+	    width: 500px;
+	    height: 546px;
+	}
+
+	.manufacturing-block-wrap {
+	    padding: 53px 0 0 80px;
+	}
+
+	.manufacturing-block-wrap7 {
+	    padding: 70px 0 0 80px;
+	}
+
+	.manufacturing-block-wrap3 {
+	    padding: 63px 0 0 80px;
+	}
+
+	.manufacturing-block-wrap8 {
+	    padding: 88px 0 0 80px;
+	}
+
+	.manufacturing-block-wrap4 {
+	    padding: 59px 0 0 80px;
+	}
+
+	.manufacturing-block-wrap9 {
+	    padding: 50px 0 0 80px;
+	}
+
+	.manufacturing-block-wrap:before {
+	    width: 264px;
+	    height: 125px;
+	    left: 100px;
+	    bottom: -17px;
+	    background: url(../images/manufacturing-restagle-375.svg) 0 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap7:before {
+	    width: 264px;
+	    height: 110px;
+	    left: 100px;
+	    bottom: -17px;
+	    background: url(../images/manufacturing-restagle2-375.svg) 0 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap3:before {
+	    height: 70px;
+	    width: 264px;
+	    left: 100px;
+	    bottom: -17px;
+	    background: url(../images/manufacturing-restagle3-375.svg) 0 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap8:before {
+	    height: 50px;
+	    width: 264px;
+	    left: 100px;
+	    bottom: -17px;
+	    background: url(../images/manufacturing-restagle4-375.svg) 0 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap4:before {
+	    height: 70px;
+	    width: 264px;
+	    left: 100px;
+	    bottom: -17px;
+	    background: url(../images/manufacturing-restagle5-375.svg) 0 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap9:before {
+	    height: 110px;
+	    width: 264px;
+	    left: 130px;
+	    bottom: -17px;
+	    background: url(../images/manufacturing-restagle6-375.svg) 0 100% no-repeat;
+	}
+}
+
+@media screen and (max-width: 460px) {
+  
+
+ 
+}
+
+/* Galaxy*/ 
+@media screen and (max-width: 415px) {
+  
+	.manufacturing-block-wrap {
+	    padding: 22px 0 0 30px;
+	}
+
+	.manufacturing-block-wrap7 {
+	    padding: 50px 0 0 30px;
+	}
+
+	.manufacturing-block-wrap3 {
+	    padding: 45px 0 0 30px;
+	}
+
+	.manufacturing-block-wrap8 {
+	    padding: 69px 0 0 30px;
+	}
+
+	.manufacturing-block-wrap4 {
+	    padding: 44px 0 0 30px;
+	}
+
+	.manufacturing-block-wrap:before {
+	    width: 264px;
+	    height: 125px;
+	    left: 55px;
+	    bottom: -17px;
+	    background: url(../images/manufacturing-restagle-375.svg) 0 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap7:before {
+	    width: 264px;
+	    height: 110px;
+	    left: 50px;
+	    bottom: -17px;
+	    background: url(../images/manufacturing-restagle2-375.svg) 0 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap3:before {
+	    height: 70px;
+	    width: 264px;
+	    left: 53px;
+	    bottom: -17px;
+	    background: url(../images/manufacturing-restagle3-375.svg) 0 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap8:before {
+	    height: 50px;
+	    width: 264px;
+	    left: 53px;
+	    bottom: -17px;
+	    background: url(../images/manufacturing-restagle4-375.svg) 0 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap4:before {
+	    height: 70px;
+	    width: 264px;
+	    left: 52px;
+	    bottom: -17px;
+	    background: url(../images/manufacturing-restagle5-375.svg) 0 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap9:before {
+	    height: 110px;
+	    width: 264px;
+	    left: 74px;
+	    bottom: -17px;
+	    background: url(../images/manufacturing-restagle6-375.svg) 0 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap9 {
+	    padding: 50px 0 0 30px;
+	}
+
+	.research-department-link a {
+		width: 100%;
+	}
+	  
+
+  	
+}
+
+
+/* Iphone 6.7.8 */ 
+@media screen and (max-width: 375px) {
+	
+ .research-department {
+	    background: url(../images/research-department-bg-375.png) center 0 no-repeat;
+	    
+	    height: 812px;
+	}
+
+	.research-department-block {
+	    display: flex;
+	    justify-content: right;
+	    padding: 243px 0 0 0;
+	    width: 100%;
+	}
+
+	.work {
+	    background: url(../images/work-bg-375.png) center 0 no-repeat;
+	    height: 612px;
+	}
+
+	.work-img img {
+	    width: 350px;
+	    height: 412px;
+	}
+
+	.work-img {
+	    top: 98px;
+	    left: 16%;
+	}
+
+	.container {
+		padding: 0 15px;
+	}
+
+	.manufacturing-block-wrap {
+	    padding: 10px 0 0 0px;
+	}
+
+	.manufacturing-block-wrap:before {
+	    width: 264px;
+	    height: 125px;
+	    left: 22px;
+	    bottom: -17px;
+	    background: url(../images/manufacturing-restagle-375.svg) 0 100% no-repeat;
+	}
+
+	.manufacturing-title2 {
+	    display: flex;
+	    justify-content: center;
+	    padding: 25px 0 0 0;
+	}
+
+	
+
+	.manufacturing-block-wrap7 {
+	    padding: 23px 0 0 0px;
+	}
+
+	.manufacturing-block-wrap7:before {
+	    width: 264px;
+	    height: 109px;
+	    left: 20px;
+	    bottom: -17px;
+	    background: url(../images/manufacturing-restagle2-375.svg) 0 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap3 {
+	    padding: 20px 0 0 0;
+	}
+
+	.manufacturing-block-wrap3:before {
+	    height: 70px;
+	    width: 264px;
+	    left: 20px;
+	    bottom: -17px;
+	    background: url(../images/manufacturing-restagle3-375.svg) 0 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap8 {
+	    padding: 44px 0 0 0;
+	}
+
+	.manufacturing-block-wrap8:before {
+	    height: 50px;
+	    width: 264px;
+	    left: 20px;
+	    bottom: -17px;
+	    background: url(../images/manufacturing-restagle4-375.svg) 0 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap4 {
+	    padding: 23px 0 0 0;
+	}
+	
+	.manufacturing-block-wrap4:before {
+	    height: 70px;
+	    width: 264px;
+	    left: 20px;
+	    bottom: -17px;
+	    background: url(../images/manufacturing-restagle5-375.svg) 0 100% no-repeat;
+	}
+
+	.manufacturing-block-wrap9 {
+	    padding: 10px 0 0 0;
+	}
+
+	.manufacturing-block-wrap9:before {
+	    height: 123px;
+	    width: 264px;
+	    left: 34px;
+	    bottom: -17px;
+	    background: url(../images/manufacturing-restagle6-375.svg) 0 100% no-repeat;
+	}
+
+	.work-block-border {
+	    width: 150px;
+	}
+
+	.work-block-text-border {
+	    width: 150px;
+	}
+
+	.work-block-text-border2 {
+	    width: 150px;
+	}
+
+	.work-block-text-border3 {
+	    width: 150px;
+	}
+
+	.work-block-text-border4 {
+	    width: 150px;
+	}
+
+	.work-block-text-border5 {
+	    width: 150px;
+	}
+
+	.work-block-text-border6 {
+	    width: 150px;
+	}
+
+	.laboratory {
+	  background: url(../images/laboratory-375.png) center 0 no-repeat;
+	  
+	  height: 241px;
+	}
+
+	.footer-block {
+	    width: 55%;
+	}
+
+	.footer-block2 {
+	    width: 45%;
+	}
+
+	.secret-department-link a {
+		text-align: center;
+		width: 243px;
+	}
+
+}
+
+/* Iphone 5.5SE */ 
+@media screen and (max-width: 320px) {
+
+}
